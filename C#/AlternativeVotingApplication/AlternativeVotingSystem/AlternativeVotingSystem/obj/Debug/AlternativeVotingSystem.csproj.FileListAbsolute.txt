@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Oxford_Brookes\Advanced OOP\Coursework\C#\AlternativeVotingApplication\AlternativeVotingSystem\AlternativeVotingSystem\bin\Debug\AlternativeVotingSystem.exe.config
+\\Mac\Home\Documents\Oxford_Brookes\Advanced OOP\Coursework\C#\AlternativeVotingApplication\AlternativeVotingSystem\AlternativeVotingSystem\bin\Debug\AlternativeVotingSystem.exe
+\\Mac\Home\Documents\Oxford_Brookes\Advanced OOP\Coursework\C#\AlternativeVotingApplication\AlternativeVotingSystem\AlternativeVotingSystem\bin\Debug\AlternativeVotingSystem.pdb
+\\Mac\Home\Documents\Oxford_Brookes\Advanced OOP\Coursework\C#\AlternativeVotingApplication\AlternativeVotingSystem\AlternativeVotingSystem\obj\Debug\AlternativeVotingSystem.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Oxford_Brookes\Advanced OOP\Coursework\C#\AlternativeVotingApplication\AlternativeVotingSystem\AlternativeVotingSystem\obj\Debug\AlternativeVotingSystem.exe
+\\Mac\Home\Documents\Oxford_Brookes\Advanced OOP\Coursework\C#\AlternativeVotingApplication\AlternativeVotingSystem\AlternativeVotingSystem\obj\Debug\AlternativeVotingSystem.pdb
